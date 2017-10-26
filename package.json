@@ -4,7 +4,7 @@
   "description": "Modern copy to clipboard. No Flash. Just 2kb",
   "repository": "zenorocha/clipboard.js",
   "license": "MIT",
-  "main": "lib/clipboard.js",
+  "main": "src/clipboard.js",
   "keywords": [
     "clipboard",
     "copy",
